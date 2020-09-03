@@ -18,6 +18,6 @@ https://www.codewars.com
 | 3 | python | 7 | [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd) | [List Filtering](https://github.com/Valerio-boi/Codewars-python/blob/master/kata-python/ListFiltering.py) |
 | 4 | python | 7 | [Alternate case](https://www.codewars.com/kata/57a62154cf1fa5b25200031e) | [Alternate case](https://github.com/Valerio-boi/Codewars-python/blob/master/kata-python/AlternateCase.py) |
 | 5 | python | 7 | [Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003) | [Sort Numbers](https://github.com/Valerio-boi/Codewars-python/blob/master/kata-python/SortNumbers.py) |
-| 6 | python | 7 | [Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003) | [Sort Numbers](https://github.com/Valerio-boi/Codewars-python/blob/master/kata-python/SortNumbers.py) |
-| 7 | python | 6 | [Testing 1-2-3](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9) | [Testing 1-2-3](https://github.com/Valerio-boi/Codewars-python/blob/master/kata-python/CamelCaseMethod.py) |
+| 6 | python | 7 | [Testing 1-2-3](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003) | [Testing 1-2-3](https://github.com/Valerio-boi/Codewars-python/blob/master/kata-python/SortNumbers.py) |
+| 7 | python | 6 | [CamelCase Method](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9) | [CamelCase Method](https://github.com/Valerio-boi/Codewars-python/blob/master/kata-python/CamelCaseMethod.py) |
 | 8 | python | 6 | [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272) | [Highest Scoring Word](https://github.com/Valerio-boi/Codewars-python/blob/master/HigestScoringWord.py) |
