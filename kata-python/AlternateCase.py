@@ -11,3 +11,5 @@ def alternateCase(s):
         stringa += lista[i]
     print(stringa)   
     return stringa
+
+pippo sei na pippa
